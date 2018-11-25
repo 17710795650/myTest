@@ -8,5 +8,6 @@ public class Haha {
         System.out.println("ddd");
         System.out.println("idea");
         System.out.println("xiaodidi");
+	 System.out.println("wangba");
     }
 }
