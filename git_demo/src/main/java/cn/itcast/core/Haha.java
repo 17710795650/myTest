@@ -7,5 +7,6 @@ public class Haha {
         System.out.println("ccc");
         System.out.println("ddd");
         System.out.println("idea");
+	 System.out.println("wangba");
     }
 }
